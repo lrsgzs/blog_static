@@ -1,3 +1,3 @@
 @echo off
 color 24
-tree
+tree c:/
