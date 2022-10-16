@@ -15,5 +15,5 @@ var topics = [
 
 // 消息
 var news = [
-    '好消息！！！<br>详细请见<a href="https://code.xueersi.com/home/project/detail?lang=code&pid=37977468&version=python&form=python&langType=python">mc服务器</a>'
+    '好消息！！！详细请见<a href="https://code.xueersi.com/home/project/detail?lang=code&pid=37977468&version=python&form=python&langType=python">mc服务器</a>'
 ]
