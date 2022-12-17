@@ -32,7 +32,7 @@ var sub_biaoqian = document.getElementById("news");
 
 for (var i = 0; i < news.length; i++){
     // 显示消息
-    var biaoqian = document.createElement("a");
+    var biaoqian = document.createElement("p");
     
     biaoqian.innerHTML = news[i] + "<br>";
     
