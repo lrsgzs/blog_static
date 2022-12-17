@@ -34,7 +34,7 @@ for (var i = 0; i < news.length; i++){
     // 显示消息
     var biaoqian = document.createElement("a");
     
-    biaoqian.innerHTML = news[i];
+    biaoqian.innerHTML = news[i] + "<br>";
     
     sub_biaoqian.appendChild(biaoqian);
     
