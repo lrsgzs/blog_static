@@ -10,6 +10,10 @@ var topics = [
     [
         "https://code.xueersi.com/home/project/detail?lang=code&pid=37922392&version=offline&form=python&langType=python",
         "便携编辑器"
+    ],
+    [
+        "https://code.xueersi.com/home/project/detail?lang=code&pid=39499604&version=python&form=python&langType=python",
+        "自制编程语言！叫cat！"
     ]
 ]
 
